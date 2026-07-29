@@ -1,33 +1,18 @@
 # Introducción
 
-Queridos estudiantes,
+```{learnmorenote} Instrucciones para maestros:
 
-como tarea para casa, elaboraron un mapa mental de conceptos clave.
-
-¡Veamos juntos los mapas mentales elaborados!
-
-Hoy trabajarán en tareas en las que aplican el conocimiento sobre componentes informáticos.
-
-Primero analizarán individualmente varias configuraciones de ordenadores, y luego en grupos diseñarán la configuración de un ordenador portátil para un propósito específico.
-
-Es importante que sigan las instrucciones, colaboren en el equipo y justifiquen sus decisiones.
-
-Su trabajo se evalúa a través de la tarea individual (10 puntos) y la tarea en grupo (10 puntos).
-
-| Calificación    | puntos |
-|-----------------|--------|
-| Excelente (5)   | 18-20  |
-| Muy bueno (4)   | 15-17  |
-| Bueno (3)       | 12-14  |
-| Suficiente (2)  | 10-12  |
-| Insuficiente (1)| 0-9    |
+  Los estudiantes han entregado mapas mentales como parte de la tarea de casa, en los que trabajaron utilizando el enfoque CSCL. Antes de continuar con la actividad, es necesario revisar los mapas mentales entregados y proporcionarles comentarios constructivos sobre su calidad y precisión.
+```
 
 
-En la siguiente actividad, resuelves las tareas individualmente en el ordenador.
+Con el propósito de revisar el conocimiento sobre las partes del ordenador en equipo, han elaborado un mapa mental. Hoy continúas con tareas en las que aplicarás el conocimiento sobre componentes de ordenador, y al hacerlo, comprenderás mejor cómo las características técnicas determinan el rendimiento de la máquina.
 
-Tu tarea es analizar cuatro configuraciones diferentes de ordenadores y, con la ayuda del mapa mental de tu grupo, responder a las preguntas. Ten cuidado, puede haber una o más respuestas correctas.
+En la siguiente actividad, resuelves las tareas de forma independiente en el ordenador.
 
-Tiempo previsto: **15 min**
+Tu tarea es analizar cuatro configuraciones diferentes de ordenadores y, con la ayuda del mapa mental de tu grupo, responder las preguntas. Ten cuidado, puede haber una o varias respuestas correctas.
 
-Después de la entrega, recibirás retroalimentación automática sobre el éxito y comentaremos juntos las respuestas.
+Tiempo previsto: **15 min**    
+
+Después de la entrega recibirás retroalimentación automática sobre el éxito y comentaremos juntos las respuestas.
 

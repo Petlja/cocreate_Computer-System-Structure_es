@@ -1,10 +1,10 @@
-﻿---
+---
 status: exclude
 alias: cocreate_Computer-System-Structure_es
 lang: en
 short_description: Estructura del ordenador – partes del ordenador y software
 long_description: >
-    <p>En esta lección aprenderás a reconocer y comprender las partes básicas del ordenador. A través de tareas prácticas elaborarás mapas mentales, analizarás diferentes configuraciones de ordenadores y en equipo seleccionarás el modelo óptimo de ordenador portátil para necesidades específicas. Desarrollarás habilidades de colaboración en equipo, argumentación de elecciones y elaboración de presentaciones de manera interesante y creativa.</p>
+    <p>En esta lección aprenderás a reconocer y comprender las partes básicas del ordenador. A través de tareas prácticas elaborarás mapas mentales, analizarás diferentes configuraciones de ordenadores y justificarás tu elección según tus necesidades personales.</p>
     <p>
     <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
@@ -40,3 +40,5 @@ This course is published by Petlja Foundation under the
 preparation/index
 individual_work/index
 group_work/index
+Appendix/index
+```

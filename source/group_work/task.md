@@ -40,5 +40,5 @@ Ahora que están asignados en grupos, comiencen a trabajar en encontrar el orden
 
 ```{raw} html
 <div style="text-align: center">
-    <iframe src="https://docs.google.com/presentation/d/1W41OjhRM2RbhuMk1HqbDxpIDSZq-cLknv4WYZW26K1w/edit?usp=share_link" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen></iframe>
+    <iframe src="https://docs.google.com/presentation/d/15ZmOegFN4OLPBNi91L1jidnZmy-NntaiF-goschRuco/edit?slide=id.p1#slide=id.p1" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen></iframe>
 </div>
