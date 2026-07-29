@@ -1,6 +1,5 @@
 # Reflexión
 
-
 Ahora que has terminado todo, tómate unos minutos para reflexionar sobre tu propio trabajo y el de tu equipo. No es necesario completar nada: lee las siguientes afirmaciones y piensa honestamente en cada una cuánto se aplica a tu equipo. ¿En qué fueron fuertes? ¿Dónde hay margen de mejora? 
 
 1.\tDurante el trabajo en equipo, todos fuimos iguales y nos respetamos mutuamente.
@@ -16,11 +15,11 @@ Ahora que has terminado todo, tómate unos minutos para reflexionar sobre tu pro
 Si consideras que alguno de estos principios no estuvo suficientemente presente en tu equipo, piensa en lo que tú personalmente podrías hacer de otra manera en el próximo trabajo en equipo. 
 
 
-```{learnmorenote} Refleksija o timskom radu — upute za nastavnike:
+```{learnmorenote} Reflexión sobre el trabajo en equipo: instrucciones para los profesores:
 
 A continuación se presentan preguntas para la reflexión sobre el trabajo en equipo. Sugerimos integrarlas en alguno de los cuestionarios en línea (por ejemplo, Google Forms, Microsoft Forms o la herramienta que utilicen en su plataforma), compartirlas con los estudiantes y, después de que completen el cuestionario, discutir juntos las preguntas y los resultados.
 
-#### Upitnik o grupnom radu
+#### Cuestionario sobre trabajo en grupo
     
 Instrucción para los estudiantes: califiquen en qué medida el grupo, durante el trabajo en equipo, respetó los principios indicados del trabajo en equipo en una escala del 1 al 4.
 
@@ -43,7 +42,7 @@ Afirmaciones para evaluar:
 8. Distribuimos el tiempo de forma inteligente para completar con éxito la tarea.
 9. Seguimos nuestro progreso y pensamos en los siguientes pasos.
 
-#### Prijedlog za raspravu nakon upitnika
+#### Propuesta para discusión después del cuestionario
 
 Revisen los resultados con los estudiantes. Si la puntuación media de algún principio es inferior a 3, eso indica que el equipo debería trabajar en mejorar ese aspecto del trabajo en equipo en el futuro. Anime a los estudiantes a concretar: qué ocurrió exactamente, por qué, y qué podría hacer cada miembro del equipo de otra manera la próxima vez.
 ```
