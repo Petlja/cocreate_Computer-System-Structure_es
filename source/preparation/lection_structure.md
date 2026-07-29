@@ -2,7 +2,7 @@
 
 **Esta lección tiene tres componentes:**
 
-![Imagen del cuestionario](images/Slika_1_CRO.png)
+![Imagen del cuestionario](images/Slika_1_ES.png)
 
 Al final de la clase se evaluará cada parte de tu trabajo:
 
