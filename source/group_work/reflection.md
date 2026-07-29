@@ -1,33 +1,49 @@
 # Reflexión
 
-## (5 minutos)
 
-Al final de la clase, dedica unos minutos a reflexionar sobre tu propio trabajo y el trabajo del grupo.
+Ahora que has terminado todo, tómate unos minutos para reflexionar sobre tu propio trabajo y el de tu equipo. No es necesario completar nada: lee las siguientes afirmaciones y piensa honestamente en cada una cuánto se aplica a tu equipo. ¿En qué fueron fuertes? ¿Dónde hay margen de mejora? 
 
-Completa el breve cuestionario de reflexión y participa en la discusión conjunta.
+1.\tDurante el trabajo en equipo, todos fuimos iguales y nos respetamos mutuamente.
+2.\tMantuvimos un buen ambiente incluso cuando pensábamos de forma განსხვავada.
+3.\tTodos fuimos responsables del trabajo del grupo.
+4.\tNos ayudamos unos a otros para que todos contribuyeran al trabajo del grupo.
+5.\tNos esforzamos por incluir a cada miembro del equipo en la toma de decisiones.
+6.\tConsideramos diferentes ideas para elegir la mejor solución.
+7.\tDesarrollamos ideas, las discutimos y buscamos soluciones. 
+8.\tDistribuimos el tiempo de forma inteligente para completar con éxito la tarea.
+9.\tSeguimos nuestro progreso y pensamos en los siguientes pasos. 
 
-## Cuestionario
+Si consideras que alguno de estos principios no estuvo suficientemente presente en tu equipo, piensa en lo que tú personalmente podrías hacer de otra manera en el próximo trabajo en equipo. 
 
-Evalúa cuánto respeta el grupo las reglas mencionadas en una escala del 1 al 4.
 
-```{technicalnote}
+```{learnmorenote} Refleksija o timskom radu — upute za nastavnike:
+
+A continuación se presentan preguntas para la reflexión sobre el trabajo en equipo. Sugerimos integrarlas en alguno de los cuestionarios en línea (por ejemplo, Google Forms, Microsoft Forms o la herramienta que utilicen en su plataforma), compartirlas con los estudiantes y, después de que completen el cuestionario, discutir juntos las preguntas y los resultados.
+
+#### Upitnik o grupnom radu
+    
+Instrucción para los estudiantes: califiquen en qué medida el grupo, durante el trabajo en equipo, respetó los principios indicados del trabajo en equipo en una escala del 1 al 4.
+
 Escala de evaluación:
+1. No se aplica en absoluto a mi equipo
+2. No se aplica a mi equipo
+3. Se aplica a mi equipo
+4. Se aplica completamente a mi equipo
 
-1 -- No respetado en absoluto
+Pregunta inicial: ¿A qué equipo perteneces? (Equipo 1 / Equipo 2 / Equipo 3 / Equipo 4)
 
-2 -- Mayoritariamente no respetado
+Afirmaciones para evaluar:
+1. Durante el trabajo en equipo, todos fuimos iguales y nos respetamos mutuamente.
+2. Mantuvimos un buen ambiente incluso cuando pensábamos de forma diferente.
+3. Todos fuimos responsables del trabajo del grupo.
+4. Nos ayudamos unos a otros para que todos contribuyeran al trabajo del grupo.
+5. Nos esforzamos por incluir a cada miembro del equipo en la toma de decisiones.
+6. Consideramos diferentes ideas para elegir la mejor solución.
+7. Desarrollamos ideas, las discutimos y buscamos soluciones.
+8. Distribuimos el tiempo de forma inteligente para completar con éxito la tarea.
+9. Seguimos nuestro progreso y pensamos en los siguientes pasos.
 
-3 -- Mayoritariamente respetado
+#### Prijedlog za raspravu nakon upitnika
 
-4 -- Completamente respetado
-```
-
-```{infonote}
-Si la calificación es inferior a 3, deben intentar mejorar esa parte del funcionamiento del grupo.
-```
-
-```{raw} html
-<div style="text-align: center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeESkVJv1r2bEmDuf-WesD3TOX_tkH_V6CcWzc1a3SHIhcmEA/viewform?usp=header" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen></iframe>
-</div>
+Revisen los resultados con los estudiantes. Si la puntuación media de algún principio es inferior a 3, eso indica que el equipo debería trabajar en mejorar ese aspecto del trabajo en equipo en el futuro. Anime a los estudiantes a concretar: qué ocurrió exactamente, por qué, y qué podría hacer cada miembro del equipo de otra manera la próxima vez.
 ```
