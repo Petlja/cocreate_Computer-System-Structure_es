@@ -1,23 +1,21 @@
-﻿# Potrebno predznanje
+# Conocimiento previo requerido
 
-**Prije ove lekcije već si naučio/naučila:** 
+**Antes de esta lección ya has aprendido:** 
 
--   imenovati i grupirati osnovne dijelove računala prema njihovoj
-    namjeni,
+-   nombrar y agrupar las partes básicas de un ordenador según su
+    propósito,
 
--   prepoznati različite ulazne i izlazne jedinice te vrste medija za
-    pohranu podataka,
+-   reconocer diferentes unidades de entrada y salida y tipos de medios para
+    almacenamiento de datos,
 
--   navesti funkcionalne dijelove računala i opisati osnovno načelo
-    njegova rada,
+-   mencionar las partes funcionales de un ordenador y describir el principio básico
+    de su funcionamiento,
 
--   razlikovati sklopovlje i programsku opremu,
+-   distinguir entre hardware y software,
 
--   razlikovati sistemski i korisnički softver te navesti primjere
-    programa.
+-   distinguir entre software de sistema y software de usuario, y mencionar ejemplos
+    de programas.
 
-Ovi su pojmovi postupno obrađeni na prethodnim satima i sada ih za
-domaću zadaću trebaš organizirati u mentalnu mapu. Mentalna mapa će ti
-na idućem satu služiti kao oslonac za samostalne i grupne zadatke.
-
-Ukoliko ti neki od pojmova još nisu u potpunosti poznati, predlažemo da pogledaš sljedeći video: [Osnovni dijelovi računala](https://www.youtube.com/watch?v=tbNRCC9loMs) 
+Estos conceptos se han tratado gradualmente en las clases anteriores y ahora debes
+organizarlos en un mapa mental para la tarea del hogar. El mapa mental te
+servirá como apoyo en la próxima clase para tus tareas individuales y de grupo.
