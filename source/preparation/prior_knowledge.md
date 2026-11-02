@@ -1,22 +1,22 @@
-# Conocimiento previo requerido
+# Coneixement previ necessari
 
-**Antes de esta lección ya has aprendido:** 
+**Abans d'aquesta lliçó ja has après:**
 
--   nombrar y agrupar las partes básicas de un ordenador según su
-    propósito,
+-   anomenar i agrupar les parts bàsiques de l'ordinador segons la seva
+    funció,
 
--   reconocer diferentes unidades de entrada y salida y tipos de medios para
-    almacenamiento de datos,
+-   reconèixer diferents unitats d'entrada i sortida i tipus de mitjans
+    d'emmagatzematge,
 
--   mencionar las partes funcionales de un ordenador y describir el principio básico
-    de su funcionamiento,
+-   enumerar les parts funcionals de l'ordinador i descriure el principi
+    bàsic del seu funcionament,
 
--   distinguir entre hardware y software,
+-   diferenciar el maquinari i el programari,
 
--   distinguir entre software de sistema y software de usuario, y mencionar ejemplos
-    de programas.
+-   diferenciar el programari del sistema i el de l'usuari i donar
+    exemples de programes.
 
-Estos conceptos se han tratado gradualmente en las clases anteriores y ahora debes
-organizarlos en un mapa mental para la tarea del hogar. El mapa mental te
-servirá como apoyo en la próxima clase para tus tareas individuales y de grupo.
-
+Aquests conceptes s'han tractat gradualment en sessions anteriors i ara
+per a la tasca de casa has d'organitzar-los en un mapa mental. El mapa
+mental te servirà com a suport en la pròxima sessió per a tasques
+autònomes i de grup.
