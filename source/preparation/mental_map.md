@@ -30,7 +30,7 @@
 ```{raw} html
 <div style="text-align: center">
     <iframe width="768" height="432"
-    src="https://miro.com/app/board/uXjVH8mw4jg=/?share_link_id=775299696754"
+    src="https://miro.com/app/board/uXjVESmjp_o=/?inviteKey=azZ1enM3TFgxc0RTKzUzdFVXNGtMNFhyWEdlaUZnc0tkQTlQVGx4WTFhYVVNc3VQU2ZuNkV1Y3g1VnBUMG5QOWl2bXpCN3FFdmtOUDFFaVhwS0d5Q1ZvWDBPRmdTOTF5OTR3cGE2N3FDVnpmeXJ6VkFIVTBtVGg0cmZTL3o2SDNBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE%3D"
     frameborder="0" scrolling="no" allow="fullscreen; clipboard-read;
     clipboard-write" allowfullscreen>
     </iframe>
