@@ -1,6 +1,6 @@
 # Cuestionario: configuración del ordenador
 
-![Imagen del cuestionario](images/image1.png)
+![Imagen del cuestionario](images/image1_ES.png)
 
 ```{mchoice}
 :answer1: 1;
