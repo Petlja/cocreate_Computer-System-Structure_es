@@ -20,4 +20,3 @@ Estos conceptos se han tratado gradualmente en las clases anteriores y ahora deb
 organizarlos en un mapa mental para la tarea del hogar. El mapa mental te
 servirá como apoyo en la próxima clase para tus tareas individuales y de grupo.
 
-Si aún no estás completamente familiarizado con algunos de estos conceptos, te sugerimos que veas el siguiente video: [Partes básicas de un ordenador](https://www.youtube.com/watch?v=tbNRCC9loMs)
