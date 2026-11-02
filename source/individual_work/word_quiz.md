@@ -1,6 +1,6 @@
-# Kviz: konfiguracija računala
+# Cuestionario: configuración del ordenador
 
-![Slika kviza](images/image1.png)
+![Imagen del cuestionario](images/image1_ES.png)
 
 ```{mchoice}
 :answer1: 1;
@@ -9,7 +9,7 @@
 :answer4: 4;
 :correct: 4
 
-Kada bi gledali procesor, radnu memoriju i graficku karticu koje bi racunalo bilo najslabije?
+¿Al mirar el procesador, la memoria RAM y la tarjeta gráfica, cuál sería el ordenador más débil?
 ```
 
 ```{mchoice}
@@ -19,7 +19,7 @@ Kada bi gledali procesor, radnu memoriju i graficku karticu koje bi racunalo bil
 :answer4: 4;
 :correct: 2
 
-Kada bi gledali procesor, radnu memoriju i graficku karticu koje bi racunalo bilo najjace?
+¿Al mirar el procesador, la memoria RAM y la tarjeta gráfica, cuál sería el ordenador más potente?
 ```
 
 ```{mchoice}
@@ -29,7 +29,7 @@ Kada bi gledali procesor, radnu memoriju i graficku karticu koje bi racunalo bil
 :answer4: 4;
 :correct: 1
 
-Koji monitor ima najbolju rezoluciju?
+¿Cuál monitor tiene la mejor resolución?
 ```
 
 ```{mchoice}
@@ -39,7 +39,7 @@ Koji monitor ima najbolju rezoluciju?
 :answer4: 4;
 :correct: 2
 
-Koje racunalo ima najviše radne memorije?
+¿Cuál ordenador tiene más memoria RAM?
 ```
 
 ```{mchoice}
@@ -49,7 +49,7 @@ Koje racunalo ima najviše radne memorije?
 :answer4: 4;
 :correct: 4
 
-Koje racunalo pruža najlošiju kvalitetu zvuka?
+¿Cuál ordenador proporciona la peor calidad de sonido?
 ```
 
 ```{mchoice}
@@ -59,7 +59,7 @@ Koje racunalo pruža najlošiju kvalitetu zvuka?
 :answer4: 4;
 :correct: 2,3
 
-Koje racunalo ima najbrži procesor?
+¿Cuál ordenador tiene el procesador más rápido?
 ```
 
 ```{mchoice}
@@ -69,7 +69,7 @@ Koje racunalo ima najbrži procesor?
 :answer4: 4;
 :correct: 4
 
-Na kojem racunalu se može pohraniti najmanje podataka?
+¿En cuál ordenador se puede almacenar la menor cantidad de datos?
 ```
 
 ```{mchoice}
@@ -79,7 +79,7 @@ Na kojem racunalu se može pohraniti najmanje podataka?
 :answer4: 4;
 :correct: 2
 
-Koje racunalo ima najbolju kombinaciju diskova za pohranu velike kolicine podataka?
+¿Cuál ordenador tiene la mejor combinación de discos para almacenar una gran cantidad de datos?
 ```
 
 ```{mchoice}
@@ -89,7 +89,7 @@ Koje racunalo ima najbolju kombinaciju diskova za pohranu velike kolicine podata
 :answer4: 4;
 :correct: 4
 
-Koje racunalo se ne može spojiti na bežicnu mrežu?
+¿Cuál ordenador no se puede conectar a una red inalámbrica?
 ```
 
 ```{mchoice}
@@ -99,5 +99,5 @@ Koje racunalo se ne može spojiti na bežicnu mrežu?
 :answer4: 4;
 :correct: 3
 
-Na kojem racunalu je Microsoft operacijski sustav?
+¿En cuál ordenador hay un sistema operativo Microsoft?
 ```
