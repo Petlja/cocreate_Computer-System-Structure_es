@@ -1,36 +1,39 @@
 # Mapa mental
 
-**Instrucciones para crear un mapa mental**
+**Instruccions per crear un mapa mental**
 
-1.  Divídanse en grupos de 3 a 4 miembros según su elección.
+1.  Dividiu-vos en grups de 3 a 4 membres segons la vostra elecció.
 
-2.  Abran [Miro](https://www.miro.com) y comiencen juntos a crear un mapa mental:
+2.  Obriu [Miro](https://www.miro.com) i comenceu juntament la creació del mapa mental:
 
-    a.  Todos los miembros del grupo se registran en la plataforma Miro usando
-        el correo electrónico escolar.
+    a.  Tots els membres del grup es registren a la plataforma Miro
+        amb el correu escolar.
 
-    b.  Un miembro del grupo crea el mapa, lo copia a un nuevo mapa vinculado a su cuenta e invita a los otros miembros del grupo para que
-        todos puedan editar el mapa.
+    b.  Un membre del grup crea el mapa, el copia a un mapa nou vinculat
+        al seu compte i convida als altres membres del grup per
+        que tots puguin editar el mapa.
 
-3.  Revisen la plantilla de mapa mental publicada en Petlja y, basándose en
-    las lecciones previamente tratadas, elaboren su mapa grupal. En el mapa
-    deben mostrarse todos los dispositivos mencionados y sus divisiones, siendo
-    importante aplicar el conocimiento que ha adquirido previamente.
+3.  Consulteu la plantilla del mapa mental publicada a Petlja i, basant-vos
+    en les lliçons tractades prèviament, creeu el vostre mapa de grup. Al
+    mapa han d'aparèixer tots els dispositius esmentats i les seves
+    divisions, sent important aplicar els coneixements que heu adquirit
+    anteriorment.
 
-4.  Si lo desean, agreguen notas breves (por ejemplo, qué hace cada componente y
-    cuáles son sus características importantes) e imágenes o iconos.
+4.  Si ho desitjau, afegiu notes breus (per exemple, què fa cada component
+    i quines són les seves característiques importants) i imatges o
+    icones.
 
-5.  Si necesitas apoyo adicional en tu aprendizaje, puedes adaptar
-    la apariencia del mapa: usar una fuente más grande, colores claros o insertar iconos y
-    marcas visuales.
+5.  Si necessitau suport addicional en l'aprenentatge, podeu adaptar
+    l'aparença del mapa: utilitzar una font més gran, colors clars o
+    inserir icones i marcadors visuals.
 
-6.  Cuando terminen, exporten el mapa como imagen y envíenlo a través
-    de Petlja en la siguiente actividad.
+6.  Quan acabeu, exporteu el mapa com a imatge i presenteu-lo a través de
+    Petlja en l'activitat següent.
 
 ```{raw} html
 <div style="text-align: center">
     <iframe width="768" height="432"
-    src="https://miro.com/app/board/uXjVESmjp_o=/?inviteKey=azZ1enM3TFgxc0RTKzUzdFVXNGtMNFhyWEdlaUZnc0tkQTlQVGx4WTFhYVVNc3VQU2ZuNkV1Y3g1VnBUMG5QOWl2bXpCN3FFdmtOUDFFaVhwS0d5Q1ZvWDBPRmdTOTF5OTR3cGE2N3FDVnpmeXJ6VkFIVTBtVGg0cmZTL3o2SDNBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE%3D"
+src="https://miro.com/app/board/uXjVESmjp_o=/?inviteKey=azZ1enM3TFgxc0RTKzUzdFVXNGtMNFhyWEdlaUZnc0tkQTlQVGx4WTFhYVVNc3VQU2ZuNkV1Y3g1VnBUMG5QOWl2bXpCN3FFdmtOUDFFaVhwS0d5Q1ZvWDBPRmdTOTF5OTR3cGE2N3FDVnpmeXJ6VkFIVTBtVGg0cmZTL3o2SDNBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE%3D"
     frameborder="0" scrolling="no" allow="fullscreen; clipboard-read;
     clipboard-write" allowfullscreen>
     </iframe>
