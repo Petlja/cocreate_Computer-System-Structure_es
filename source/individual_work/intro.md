@@ -22,6 +22,7 @@ Su trabajo se evalúa a través de la tarea individual (10 puntos) y la tarea en
 | Suficiente (2)  | 10-12  |
 | Insuficiente (1)| 0-9    |
 
+U svrhu ponavljanja znanja o dijelovima računala u timovima ste izradili mentalnu mapu. Danas nastavljaš s zadatcima kroz koje ćeš primijeniti znanje o računalnim komponentama, a pri tome će ti pomoći mentalna mapa tvog tima.
 
 En la siguiente actividad, resuelves las tareas individualmente en el ordenador.
 

@@ -40,3 +40,4 @@ This course is published by Petlja Foundation under the
 preparation/index
 individual_work/index
 group_work/index
+Appendix/index
