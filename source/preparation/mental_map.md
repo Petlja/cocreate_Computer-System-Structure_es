@@ -21,7 +21,7 @@
 ```{raw} html
 <div style="text-align: center">
     <iframe width="768" height="432"
-    src="https://miro.com/app/board/uXjVH8lHg_4=/?share_link_id=699924176574"
+src="https://miro.com/app/board/uXjVESmjp_o=/?share_link_id=534789377246"
     frameborder="0" scrolling="no" allow="fullscreen; clipboard-read;
     clipboard-write" allowfullscreen>
     </iframe>
