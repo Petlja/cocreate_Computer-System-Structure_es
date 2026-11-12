@@ -1,50 +1,53 @@
-# Zadatak
+# Tarea
 
-## (30 minuta)
+## (30 minutos)
 
-Sada kada ste raspoređeni u grupe, započnite s radom na pronalaženju
-prijenosnog računala koje najbolje odgovara vašem scenariju. Za grupni
-rad imate ukupno 30 minuta. Od toga je 20 minuta predviđeno za
-istraživanje i dogovor u timu, a preostalih 10 minuta za unos podataka u
-Google Slides i pripremu prezentacije.
+Ahora que estáis divididos en grupos, comenzad a trabajar para encontrar el
+portátil que mejor se ajuste a vuestro escenario. Para el trabajo en grupo
+tenéis un total de 30 minutos. De ellos, 20 minutos se dedican a investigar
+y a llegar a un acuerdo en equipo, y los últimos 10 minutos a introducir los
+datos en Google Slides y preparar la presentación.
 
-**Osmislite konfiguraciju prijenosnog računala za dodijeljeni scenarij i
-odgovorite na sljedeća pitanja:**
+**Diseñad una configuración de portátil para el escenario asignado y
+responded a las siguientes preguntas:**
 
--   Kakav vam je procesor potreban -- koliko jezgri i koliki približan
-    takt procesora?
+-   ¿Qué procesador necesitáis: cuántos núcleos y qué velocidad
+    aproximada?
 
--   Koliki kapacitet radne memorije je dovoljan za vašu namjenu?
+-   ¿Qué capacidad de memoria RAM es suficiente para vuestro uso?
 
--   Koju vrstu i koliki kapacitet masovne memorije trebate?
+-   ¿Qué tipo y qué capacidad de memoria de almacenamiento necesitáis?
 
--   Što računalo još mora imati obzirom na vašu namjenu (npr. grafička
-    kartica, portovi, operacijski sustav, veličina i kvaliteta
-    zaslona...)?
+-   ¿Qué más debería tener el ordenador teniendo en cuenta vuestro uso
+    (por ejemplo, tarjeta gráfica, puertos, sistema operativo, tamaño y
+    calidad de la pantalla...)?
 
--   Na temelju dogovorenih specifikacija, u hrvatskoj internetskoj
-    trgovini pronađite model prijenosnog računala koji najbolje odgovara
-    vašim zahtjevima. Pokušajte dobiti najbolju vrijednost za
-    raspoloživi novac.
--   Na temelju dogovorenih specifikacija pripremite jedan slajd u
-    zajedničkom dokumentu Google Slides. Slajd treba sadržavati:
-    -   Naziv grupe, namjenu prijenosnog računala i budžet
-    -   Tehničke specifikacije (procesor, RAM, masovna memorija, OS i
-    ostalo)
-    -   Slika odabranog laptopa i poveznica na trgovinu
+-   Basándoos en las especificaciones acordadas, buscad un modelo
+    de portátil en una tienda en línea que mejor se ajuste a
+    vuestros requisitos. Intentad obtener la mejor relación calidad-precio
+    con el dinero disponible.
+    
+-   Basándoos en las especificaciones acordadas, preparad una diapositiva
+    en el documento compartido de Google Slides. La diapositiva debe
+    contener:
+    -   Nombre del grupo, uso del portátil y presupuesto
+    -   Especificaciones técnicas (procesador, RAM, memoria de almacenamiento, SO,
+        etc.)
+    -   Imagen del portátil seleccionado y enlace a la tienda
 
--   Pripremite kratko izlaganje (3--4 minute) u kojem ćete objasniti:
-    -   Zašto ste odabrali te specifikacije?
-    -   Zašto baš to prijenosno računalo?
-    -   Kako odgovara potrebama korisnika iz scenarija?
+-   Preparad una breve presentación (3-4 minutos) en la que expliquéis:
+    -   ¿Por qué habéis elegido estas especificaciones?
+    -   ¿Por qué este portátil en concreto?
+    -   ¿Cómo cumple las necesidades del usuario en el escenario?
 
-## Zajednički Google Slides
+## Google Slides compartido
 
 ```{questionnote} 
-**Da li je ugodno popuniti slajt u iFrame-u?**
+**¿Preferís rellenar la diapositiva a través de iFrame?
 ```
 
 ```{raw} html
 <div style="text-align: center">
-    <iframe src="https://docs.google.com/presentation/d/1W41OjhRM2RbhuMk1HqbDxpIDSZq-cLknv4WYZW26K1w/edit?usp=share_link" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen></iframe>
+    <iframe src="https://docs.google.com/presentation/d/1NbzFa8aw5g4IXeW2Blg2mIlT4WRzYtYQ/edit?usp=sharing&ouid=107308139824931091986&rtpof=true&sd=true" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen></iframe>
 </div>
+```
