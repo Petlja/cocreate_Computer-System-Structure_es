@@ -1,58 +1,68 @@
-# Uvod
+# Introducción
 
-```{learnmorenote} Uputa za nastavnika: 
+Ahora trabajan en los mismos grupos de 3 a 4 estudiantes en los que elaboraron los mapas mentales.
 
-Prije početka lekcije odredite koji će scenarij dobiti koja skupina i jasno to objasnite učenicima. 
+**Cada grupo recibe un escenario determinado y un presupuesto:**
+
+- Ordenador portátil para escuela -- hasta 700 €
+
+- Ordenador portátil para juegos -- hasta 3000 €
+
+- Ordenador portátil para trabajo de oficina básico -- hasta 1000 €
+
+- Ordenador portátil para edición de video -- hasta 2500 €
+
+- Ordenador portátil para programación — hasta 2500 €
+
+## Roles en el equipo
+
+- **Investigador**: encuentra la información necesaria usando el mapa mental compartido y busca fuentes relevantes en línea.
+
+- **Secretario**: registra las respuestas del grupo y verifica si están en conformidad con las especificaciones dadas.
+
+- **Técnico**: encuentra el laptop seleccionado en una tienda en línea y verifica si cumple con los requisitos dados.
+
+- **Presentador**: prepara una breve presentación en la que muestra las especificaciones del ordenador seleccionado y explica la elección del grupo.
+
+Si hay tres miembros en el grupo, los roles de secretario y presentador se combinan.
+
+```{infonote}
+**Nota**
+
+Aunque a cada miembro del grupo se le asigna un rol específico, todos se ayudan mutuamente en todas las partes de la tarea. Tu responsabilidad es que la parte del trabajo que corresponde a tu rol se realice de manera de calidad y a tiempo, pero al mismo tiempo colaboras y contribuyes a la solución común del grupo.
 ```
 
-Sada radite u istim grupama od 3 do 4 učenika u kojima ste izrađivali
-mentalne mape.
 
-**Svaka grupa dobiva određeni scenarij i budžet:**
+```{suggestionnote}
+**REGLAS DE COLABORACIÓN EXITOSA**
 
--   Prijenosno računalo za školu -- do 700 €
+- Todos somos iguales y nos respetamos mutuamente.
 
--   Prijenosno računalo za igranje igrica -- do 3000 €
+- Mantenemos un buen ambiente incluso cuando pensamos de manera diferente.
 
--   Prijenosno računalo za osnovni uredski rad -- do 1000 €
+- Todos somos responsables del trabajo del grupo.
 
--   Prijenosno računalo za uređivanje videa -- do 2500 €
+- Ayudamos a todos a contribuir al trabajo del grupo.
 
--   Prijenosno računalo za programiranje — do 2500 €
+- Nos esforzamos por incluir a cada miembro del grupo en la toma de decisiones.
 
-## Uloge u timu
+- Consideramos diferentes ideas para elegir la mejor solución.
 
--   **Istraživač**: pronalazi potrebne informacije pomoću zajedničke umne
-    mape i pretražuje relevantne online izvore.
+- Desarrollamos ideas, discutimos sobre ellas y pensamos en soluciones.
 
--   **Zapisničar**: bilježi odgovore grupe i provjerava jesu li u skladu sa
-    zadanim specifikacijama.
+- Usamos inteligentemente el tiempo para completar la tarea.
 
--   **Tehničar**: pronalazi odabrani laptop u online trgovini i provjerava
-    odgovara li zadanim zahtjevima.
-
--   **Prezenter**: priprema kratku prezentaciju u kojoj prikazuje
-    specifikacije odabranog računala i obrazlaže izbor grupe.
-
-Ako su u grupi tri člana, uloge zapisničara i prezentera se spajaju.
-
-```{infonote} 
-**Napomena**
-
-Iako je svakom članu grupe dodijeljena posebna uloga, svi pomažete jedni
-drugima u svim dijelovima zadatka. Tvoja je odgovornost da dio posla
-koji pripada tvojoj ulozi bude odrađen kvalitetno i na vrijeme, ali
-istovremeno surađuješ i doprinosiš zajedničkom rješenju grupe.
+- Seguimos nuestro progreso y pensamos en el siguiente paso.
 ```
 
-## Vrednovanje
+## Evaluación
 
-Zadatak će se vrednovati rubrikom:
+La tarea se evaluará con la rúbrica:
 
-  | Kategorija                                | Opis                                                                                                                                                                                                                                   | Bodovi |
-|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Tehničke specifikacije                     | Računalo odgovara zadanim zahtjevima scenarija: procesor, RAM, tip i kapacitet memorije, grafička kartica, zaslon i ostalo. Specifikacije su realne i unutar budžeta.                           | 0–2    |
-| Pronalazak odgovarajućeg modela            | Grupa je uspješno pronašla konkretan model laptopa u internetskoj trgovini koji odgovara dogovorenim specifikacijama i nudi najbolju vrijednost za novac.                                        | 0–2    |
-| Suradnja u grupi                           | Svi članovi aktivno sudjeluju, poštuju pravila uspješne suradnje, pomažu jedni drugima i odgovorno izvršavaju dodijeljene uloge.                                                                 | 0–2    |
-| Kvaliteta prezentacije (slajd i izlaganje) | Slajd je pregledan i informativan, sadrži sve tražene informacije i vizualne elemente. Izlaganje je jasno i dovoljno glasno te traje 3–4 minute.                                                | 0–2    |
-| Obrazloženje izbora i argumentacija        | Grupa jasno argumentira zašto su odabrali te specifikacije i taj laptop te kako on zadovoljava potrebe korisnika iz scenarija.                                                                  | 0–2    |
+| Categoría                                | Descripción                                                                                                                                                                                                                            | Puntos |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Especificaciones técnicas                | El ordenador cumple con los requisitos dados del escenario: procesador, RAM, tipo y capacidad de memoria, tarjeta gráfica, pantalla y demás. Las especificaciones son reales y dentro del presupuesto. | 0–2    |
+| Búsqueda del modelo adecuado             | El grupo ha encontrado exitosamente un modelo específico de laptop en una tienda en línea que cumple con las especificaciones acordadas y ofrece la mejor relación calidad-precio.               | 0–2    |
+| Colaboración en el grupo                 | Todos los miembros participan activamente, respetan las reglas de colaboración exitosa, se ayudan mutuamente y ejecutan responsablemente los roles asignados.                                   | 0–2    |
+| Calidad de la presentación (diapositiva y exposición) | La diapositiva es clara e informativa, contiene toda la información requerida y elementos visuales. La exposición es clara y lo suficientemente audible y dura 3–4 minutos.                      | 0–2    |
+| Justificación de la elección y argumentación | El grupo argumenta claramente por qué eligieron esas especificaciones y ese laptop y cómo satisface las necesidades del usuario del escenario.                                                  | 0–2    |
