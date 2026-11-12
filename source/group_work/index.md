@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Grupni rad
+# Trabajo en grupo
 
 ```{toctree}
 :maxdepth: 2

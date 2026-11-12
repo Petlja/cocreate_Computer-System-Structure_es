@@ -1,5 +1,5 @@
 
-project = 'Građa_računala'
+project = 'Estructura del ordenador'
 copyright = '2025, Fondacija Petlja'
 author = 'CTK Rijeka'
 
