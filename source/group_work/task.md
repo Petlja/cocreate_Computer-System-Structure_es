@@ -2,48 +2,40 @@
 
 ## (30 minutos)
 
-Ahora que estáis divididos en grupos, comenzad a trabajar para encontrar el
-portátil que mejor se ajuste a vuestro escenario. Para el trabajo en grupo
-tenéis un total de 30 minutos. De ellos, 20 minutos se dedican a investigar
-y a llegar a un acuerdo en equipo, y los últimos 10 minutos a introducir los
-datos en Google Slides y preparar la presentación.
+Ahora que están asignados en grupos, comiencen a trabajar en encontrar el ordenador portátil que mejor se adapte a su escenario. Para el trabajo en grupo tienen un total de 30 minutos. De estos, 20 minutos están previstos para investigación y acuerdo en el equipo, y los restantes 10 minutos para ingresar datos en Google Slides y preparar la presentación.
 
-**Diseñad una configuración de portátil para el escenario asignado y
-responded a las siguientes preguntas:**
+**Diseñen la configuración del ordenador portátil para el escenario asignado y respondan a las siguientes preguntas:**
 
--   ¿Qué procesador necesitáis: cuántos núcleos y qué velocidad
-    aproximada?
+- ¿Qué tipo de procesador necesitan -- cuántos núcleos y qué frecuencia aproximada del procesador?
 
--   ¿Qué capacidad de memoria RAM es suficiente para vuestro uso?
+- ¿Qué capacidad de memoria RAM es suficiente para su propósito?
 
--   ¿Qué tipo y qué capacidad de memoria de almacenamiento necesitáis?
+- ¿Qué tipo y capacidad de almacenamiento masivo necesitan?
 
--   ¿Qué más debería tener el ordenador teniendo en cuenta vuestro uso
-    (por ejemplo, tarjeta gráfica, puertos, sistema operativo, tamaño y
-    calidad de la pantalla...)?
+- ¿Qué más debe tener el ordenador teniendo en cuenta su propósito (por ejemplo, tarjeta gráfica, puertos, sistema operativo, tamaño y calidad de la pantalla...)?
 
--   Basándoos en las especificaciones acordadas, buscad un modelo
-    de portátil en una tienda en línea que mejor se ajuste a
-    vuestros requisitos. Intentad obtener la mejor relación calidad-precio
-    con el dinero disponible.
-    
--   Basándoos en las especificaciones acordadas, preparad una diapositiva
-    en el documento compartido de Google Slides. La diapositiva debe
-    contener:
-    -   Nombre del grupo, uso del portátil y presupuesto
-    -   Especificaciones técnicas (procesador, RAM, memoria de almacenamiento, SO,
-        etc.)
-    -   Imagen del portátil seleccionado y enlace a la tienda
+- Basándose en las especificaciones acordadas, en una tienda en línea encuentren un modelo de ordenador portátil que mejor se adapte a sus requisitos. Intenten obtener la mejor relación calidad-precio con el dinero disponible.
 
--   Preparad una breve presentación (3-4 minutos) en la que expliquéis:
-    -   ¿Por qué habéis elegido estas especificaciones?
-    -   ¿Por qué este portátil en concreto?
-    -   ¿Cómo cumple las necesidades del usuario en el escenario?
+- Basándose en las especificaciones acordadas, preparen una diapositiva en el documento compartido de Google Slides. La diapositiva debe contener:
 
-## Google Slides compartido
+    - Nombre del grupo, propósito del ordenador portátil y presupuesto
 
-```{questionnote} 
-**¿Preferís rellenar la diapositiva a través de iFrame?
+    - Especificaciones técnicas (procesador, RAM, almacenamiento masivo, OS y demás)
+
+    - Imagen del laptop seleccionado y enlace a la tienda
+
+- Preparen una breve exposición (3--4 minutos) en la que expliquen:
+
+    - ¿Por qué eligieron esas especificaciones?
+
+    - ¿Por qué precisamente ese ordenador portátil?
+
+    - ¿Cómo se adapta a las necesidades del usuario del escenario?
+
+## Google Slides Compartido
+
+```{questionnote}
+**¿Es cómodo llenar la diapositiva en el iFrame?**
 ```
 
 ```{raw} html

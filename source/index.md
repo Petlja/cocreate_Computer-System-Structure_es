@@ -1,24 +1,24 @@
 ﻿---
 status: exclude
-alias: cocreate_Computer-System-Structure_cro
+alias: cocreate_Computer-System-Structure_es
 lang: en
-short_description: Građa računala – dijelovi računala i programska oprema
+short_description: Estructura del ordenador – partes del ordenador y software
 long_description: >
-    <p>U ovoj lekciji ćeš naučiti prepoznati i razumjeti osnovne dijelove računala. Kroz praktične zadatke izrađivat ćeš mentalne mape, analizirati različite računalne konfiguracije i u timu odabrati optimalni prijenosni računalni model za određene potrebe. Razvijat ćeš vještine timske suradnje, argumentacije odabira i izradu prezentacija na zanimljiv i kreativan način.</p>
+    <p>En esta lección aprenderás a reconocer y comprender las partes básicas del ordenador. A través de tareas prácticas elaborarás mapas mentales, analizarás diferentes configuraciones de ordenadores y en equipo seleccionarás el modelo óptimo de ordenador portátil para necesidades específicas. Desarrollarás habilidades de colaboración en equipo, argumentación de elecciones y elaboración de presentaciones de manera interesante y creativa.</p>
     <p>
     <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
     <br>This course was published by Petlja Foundation under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.
     </p>
 will_learn:
-    - Prepoznavanje osnovnih dijelove računala i njihovih funkcija.
-    - Razlikovanje vrste programske opreme.
-    - Analiziranje i uspoređivanje konfiguracije računala.
-    - Obrazlaganje izbora računala za osobne potrebe.
-    - Sudjelovanje u timskom rješavanju problemskog zadatka.
+    - Reconocimiento de las partes básicas del ordenador y sus funciones.
+    - Diferenciación de tipos de software.
+    - Análisis y comparación de configuraciones de ordenadores.
+    - Justificación de la elección de un ordenador para necesidades personales.
+    - Participación en la resolución de problemas en equipo.
 
 needed: 
-    - A personal computer
+    - Un ordenador personal
 useful: []
 ---
 
